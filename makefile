@@ -1,2 +1,2 @@
 hellomake: main.cpp
-	gcc -o hello main.cpp -I.
+	g++ -o hello main.cpp -I.
